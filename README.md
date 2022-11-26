@@ -1,0 +1,17 @@
+# Learn Python Programming :book:
+
+1. [A Gentle Introduction to Python](/../../tree/01-python-intro/README.md)
+2. [Built-In Data Types](/../../tree//README.md)
+3. [Conditionals and Iteration](/../../tree//README.md)
+4. [Functions, the Building Blocks of Code](/../../tree//README.md)
+5. [Comprehensions and Generators](/../../tree//README.md)
+6. [OOP, Decorators, and Iterators](/../../tree//README.md)
+7. [Exceptions and Context Managers](/../../tree//README.md)
+8. [Files and Data Persistence](/../../tree//README.md)
+9. [Cryptography and Tokens](/../../tree//README.md)
+10. [Testing](/../../tree//README.md)
+11. [Debugging and Profiling](/../../tree//README.md)
+12. [GUIs and Scripting](/../../tree//README.md)
+13. [Data Science in Brief](/../../tree//README.md)
+14. [Introduction to API Development](/../../tree//README.md)
+15. [Packaging Python Applications](/../../tree//README.md)
